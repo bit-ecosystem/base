@@ -1,7 +1,8 @@
 ## About This Repo
 
 Pre installed with 
-        "php": "^8.2",]
+        
+        "php": "^8.2",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.4",
